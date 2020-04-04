@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kenneth T. Co | Javier Carnerero Cano</title>
+    <link>https://javiccano.github.io/authors/kenneth-t.-co/</link>
+      <atom:link href="https://javiccano.github.io/authors/kenneth-t.-co/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kenneth T. Co</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Javier Carnerero Cano, 2020</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javiccano.github.io/img/avatar.jpg</url>
+      <title>Kenneth T. Co</title>
+      <link>https://javiccano.github.io/authors/kenneth-t.-co/</link>
+    </image>
+    
+    <item>
+      <title>Challenges and Advances in Adversarial Machine Learning</title>
+      <link>https://javiccano.github.io/publication/munoz-2019-challenges/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://javiccano.github.io/publication/munoz-2019-challenges/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

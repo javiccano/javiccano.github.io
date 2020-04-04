@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emil C. Lupu | Javier Carnerero Cano</title>
+    <link>https://javiccano.github.io/authors/emil-c.-lupu/</link>
+      <atom:link href="https://javiccano.github.io/authors/emil-c.-lupu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emil C. Lupu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Javier Carnerero Cano, 2020</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javiccano.github.io/img/avatar.jpg</url>
+      <title>Emil C. Lupu</title>
+      <link>https://javiccano.github.io/authors/emil-c.-lupu/</link>
+    </image>
+    
+    <item>
+      <title>Regularisation Can Mitigate Poisoning Attacks: A Novel Analysis Based on Multiobjective Bilevel Optimisation</title>
+      <link>https://javiccano.github.io/publication/carnerero-2020-regularisation/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://javiccano.github.io/publication/carnerero-2020-regularisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges and Advances in Adversarial Machine Learning</title>
+      <link>https://javiccano.github.io/publication/munoz-2019-challenges/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://javiccano.github.io/publication/munoz-2019-challenges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poisoning Attacks with Generative Adversarial Nets</title>
+      <link>https://javiccano.github.io/publication/munoz-2019-poisoning/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0100</pubDate>
+      <guid>https://javiccano.github.io/publication/munoz-2019-poisoning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

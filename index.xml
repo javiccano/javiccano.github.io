@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javier Carnerero Cano</title>
+    <link>https://javiccano.github.io/</link>
+      <atom:link href="https://javiccano.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Javier Carnerero Cano</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Javier Carnerero Cano, 2020</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://javiccano.github.io/img/avatar.jpg</url>
+      <title>Javier Carnerero Cano</title>
+      <link>https://javiccano.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Regularisation Can Mitigate Poisoning Attacks: A Novel Analysis Based on Multiobjective Bilevel Optimisation</title>
+      <link>https://javiccano.github.io/publication/carnerero-2020-regularisation/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://javiccano.github.io/publication/carnerero-2020-regularisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges and Advances in Adversarial Machine Learning</title>
+      <link>https://javiccano.github.io/publication/munoz-2019-challenges/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://javiccano.github.io/publication/munoz-2019-challenges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poisoning Attacks with Generative Adversarial Nets</title>
+      <link>https://javiccano.github.io/publication/munoz-2019-poisoning/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0100</pubDate>
+      <guid>https://javiccano.github.io/publication/munoz-2019-poisoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Contactless Dielectric Constant Sensing System Based on a Split-Ring Resonator-Loaded Monopole</title>
+      <link>https://javiccano.github.io/publication/carnerero-2018-contactless/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://javiccano.github.io/publication/carnerero-2018-contactless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Near-Field Split-Ring Resonator-Based Monopole Sensor for Permittivity Characterization</title>
+      <link>https://javiccano.github.io/publication/carnerero-2017-near/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0100</pubDate>
+      <guid>https://javiccano.github.io/publication/carnerero-2017-near/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lector de Bajo Coste de Sensores Electromagnéticos, Pasivos e Inalámbricos para el Internet de las Cosas (IoT)</title>
+      <link>https://javiccano.github.io/publication/galindo-2017-lector/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0100</pubDate>
+      <guid>https://javiccano.github.io/publication/galindo-2017-lector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless System for the Measurement of Passive Electromagnetic Sensors in Laboratories</title>
+      <link>https://javiccano.github.io/publication/galindo-2017-wireless/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0100</pubDate>
+      <guid>https://javiccano.github.io/publication/galindo-2017-wireless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An IoT Reader for Wireless Passive Electromagnetic Sensors</title>
+      <link>https://javiccano.github.io/publication/galindo-2017-iot/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0100</pubDate>
+      <guid>https://javiccano.github.io/publication/galindo-2017-iot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
