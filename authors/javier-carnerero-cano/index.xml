@@ -5,12 +5,20 @@
     <link>https://javiccano.github.io/authors/javier-carnerero-cano/</link>
       <atom:link href="https://javiccano.github.io/authors/javier-carnerero-cano/index.xml" rel="self" type="application/rss+xml" />
     <description>Javier Carnerero-Cano</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Javier Carnerero Cano, 2020</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Javier Carnerero Cano, 2020</copyright><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://javiccano.github.io/img/avatar.jpg</url>
       <title>Javier Carnerero-Cano</title>
       <link>https://javiccano.github.io/authors/javier-carnerero-cano/</link>
     </image>
+    
+    <item>
+      <title>A Contactless System for the Dielectric Characterization of Liquid Drops</title>
+      <link>https://javiccano.github.io/publication/galindo-2020-contactless/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0100</pubDate>
+      <guid>https://javiccano.github.io/publication/galindo-2020-contactless/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Regularisation Can Mitigate Poisoning Attacks: A Novel Analysis Based on Multiobjective Bilevel Optimisation</title>

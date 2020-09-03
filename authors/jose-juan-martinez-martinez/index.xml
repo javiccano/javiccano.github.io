@@ -5,12 +5,20 @@
     <link>https://javiccano.github.io/authors/jose-juan-martinez-martinez/</link>
       <atom:link href="https://javiccano.github.io/authors/jose-juan-martinez-martinez/index.xml" rel="self" type="application/rss+xml" />
     <description>José Juan Martínez-Martínez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Javier Carnerero Cano, 2020</copyright><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Javier Carnerero Cano, 2020</copyright><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://javiccano.github.io/img/avatar.jpg</url>
       <title>José Juan Martínez-Martínez</title>
       <link>https://javiccano.github.io/authors/jose-juan-martinez-martinez/</link>
     </image>
+    
+    <item>
+      <title>A Contactless System for the Dielectric Characterization of Liquid Drops</title>
+      <link>https://javiccano.github.io/publication/galindo-2020-contactless/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0100</pubDate>
+      <guid>https://javiccano.github.io/publication/galindo-2020-contactless/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Contactless Dielectric Constant Sensing System Based on a Split-Ring Resonator-Loaded Monopole</title>
