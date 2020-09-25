@@ -5,7 +5,7 @@
     <link>https://javiccano.github.io/categories/</link>
       <atom:link href="https://javiccano.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Javier Carnerero Cano, 2020. Updated {month} 2020.</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Javier Carnerero Cano, 2020. Last updated: {month} 2020</copyright>
     <image>
       <url>https://javiccano.github.io/img/avatar.jpg</url>
       <title>Categories</title>
